@@ -1,0 +1,20 @@
+{
+  "name": {
+    "message": "Pixel Combat 2 Game"
+  },
+  "description": {
+    "message": "Pixel Combat 2 Game is available to play in chrome with this extension! Enjoy Pixel Combat 2 Game unblocked"
+  },
+  "play_now": {
+    "message": "PLAY NOW"
+  },
+  "play_game": {
+    "message": "Play Pixel Combat 2"
+  },
+  "already_installed": {
+    "message": "This Game is already installed"
+  },
+  "close": {
+    "message": "Close"
+  }
+}
